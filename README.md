@@ -1,3 +1,3 @@
 ﻿# Github-Explorer
- 
- Desafio realizado no bootcamp Ignite da Rocketseat;
+ Explorador de repositorios do meu github;
+ Desafio realizado no bootcamp Ignite da Rocketseat 🚀;
